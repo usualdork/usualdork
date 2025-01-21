@@ -75,26 +75,26 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/EC--Council-Certified%20Ethical%20Hacker-brightgreen?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAENSURBVCiRldOxSgNBEAbgb9dcIJVB0EZBsLWwEKwsxFpIY2XhA/gCvo6kvoCNjWBhZWEhCFZiYSGIhZ3FoZLCkGOS2WJz5HK5EPzLZWe+/WdnNkopKaVRzvkGM9TQQh3LeEEXO5jHMXZxiqOaUkrUMY5XtHCNL3yjGcQgjnGHBhYwXQVu4wsDQezgOYgbfEdqKc6fMIcp7ARpJ/o+fvATwsX4tsw+j6OyaKYyXglhJ7zy0/ZKKd2U0kFxNyil0x7BCm7xHqM/B2EQ15iN5+7/gkoXG7gMYRnHQTzEFZYwFb0EvMREBbxfVTRRHIr+s+qonhtyzhsppbVeC7+UUvpH5JxPcs4HfY7n/7caYBZj6KD9CyHFPDpm1kGzAAAAAElFTkSuQmCC&labelColor=black" style="width: 300px; height: 30px;">
+<img width="100%" src="https://img.shields.io/badge/EC--Council-Certified%20Ethical%20Hacker-brightgreen?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAENSURBVCiRldOxSgNBEAbgb9dcIJVB0EZBsLWwEKwsxFpIY2XhA/gCvo6kvoCNjWBhZWEhCFZiYSGIhZ3FoZLCkGOS2WJz5HK5EPzLZWe+/WdnNkopKaVRzvkGM9TQQh3LeEEXO5jHMXZxiqOaUkrUMY5XtHCNL3yjGcQgjnGHBhYwXQVu4wsDQezgOYgbfEdqKc6fMIcp7ARpJ/o+fvATwsX4tsw+j6OyaKYyXglhJ7zy0/ZKKd2U0kFxNyil0x7BCm7xHqM/B2EQ15iN5+7/gkoXG7gMYRnHQTzEFZYwFb0EvMREBbxfVTRRHIr+s+qonhtyzhsppbVeC7+UUvpH5JxPcs4HfY7n/7caYBZj6KD9CyHFPDpm1kGzAAAAAElFTkSuQmCC&labelColor=black">
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/Microsoft-Azure%20Security%20Operations%20Analyst-blue?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=black" style="width: 300px; height: 30px;">
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Scientist-blue?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=black" style="width: 300px; height: 30px;">
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/Microsoft-Security%20Compliance%20Identity-blue?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=black" style="width: 300px; height: 30px;">
+<img width="100%" src="https://img.shields.io/badge/Microsoft-Azure%20Security%20Operations%20Analyst-blue?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=black">
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/Oracle-Gen%20AI%20Professional-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black" style="width: 300px; height: 30px;">
+<img width="100%" src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Scientist-blue?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=black">
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/Microsoft-Azure%20Administrator-blue?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=black" style="width: 300px; height: 30px;">  
+<img width="100%" src="https://img.shields.io/badge/Microsoft-Security%20Compliance%20Identity-blue?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=black">
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img width="100%" src="https://img.shields.io/badge/Microsoft-Azure%20Administrator-blue?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=black">
+</td>
+<td align="center" width="50%">
+<img width="100%" src="https://img.shields.io/badge/Oracle-Gen%20AI%20Professional-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black">
 </td>
 </tr>
 </table>
@@ -125,7 +125,7 @@
 ### 🎯 **PhishAnalyzer**  
 🚀 *A machine learning-based security tool that combines email content analysis and URL feature extraction to detect phishing attempts.* 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=usualdork&repo=PhishAnalyzer&theme=radical)](https://github.com/usualdork/PhishAnalyzer).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=usualdork&repo=PhishAnalyzer&theme=radical)](https://github.com/usualdork/PhishAnalyzer)
 
 ---
 
