@@ -140,3 +140,19 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=💻+Let's+connect+and+build+something+amazing;🚀+together!+🌟" alt="Collaboration Message" />
 </div>
+
+<div align="center" style="margin-top: 20px;">
+  
+  <!-- Wrap everything in a link to Spotify -->
+  <a href="https://open.spotify.com/track/1QJFW9TapmQA41A1gp9nNe" target="_blank" style="text-decoration:none;">
+    
+  <!-- The statue image, sized for a typical footer row -->
+  <img src="https://github.com/user-attachments/assets/5d74bd32-2ba3-42e2-91da-62c604813c9e" alt="Statue Bust" width="120" height="auto" style="border-radius:4px;" />
+</div>  
+  <!-- A subtle margin, then an old-school marquee for the song title -->
+<div align="center">
+  <a href="https://open.spotify.com/track/1QJFW9TapmQA41A1gp9nNe" target="_blank">
+    <code>⋆˚✿˖° L'𝔸𝕞𝕠𝕦𝕣 𝕋𝕠𝕦𝕛𝕠𝕦𝕣𝕤 °˖✿˚⋆</code><br>
+    <code>✧ 𝒢𝒾𝑔𝒾 𝒟'𝒜𝑔𝑜𝓈𝓉𝒾𝓃𝑜 ✧</code>
+  </a>
+</div>
