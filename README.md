@@ -135,7 +135,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=usualdork&repo=AI-Chat-Assistant&theme=radical)](https://github.com/usualdork/AI-Chat-Assistant)
 
 ### 🪖 **EmailSpoof**  
-🎨 *A modern, responsive web app that hacks the DNA of emails! Transform any .eml file into a digital playground—rewrite history, forge headers, manipulate rich content, and craft deceptions. Email alchemy that breaks all the rules.*  
+🔫 *A modern, responsive web app that hacks the DNA of emails! Transform any .eml file into a digital playground—rewrite history, forge headers, manipulate rich content, and craft deceptions. Email alchemy that breaks all the rules.*  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=usualdork&repo=EmailSpoof&theme=radical)](https://github.com/usualdork/EmailSpoof)
 
