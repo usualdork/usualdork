@@ -108,11 +108,11 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usualdork&layout=compact&theme=radical" alt="Most Used Languages" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usualdork&theme=github-compact&hide_border=true" width="90%">
+</div>
 
-
-<!-- Neon activity graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=usualdork&bg_color=0D1117&color=00FF00&line=00FF00&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  
 <!-- Neon line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
