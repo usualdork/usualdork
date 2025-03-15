@@ -134,6 +134,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=usualdork&repo=SecRecon&theme=radical)](https://github.com/usualdork/SecRecon)
 
+---
+
 ### 🪖 **EmailSpoof**  
 🔫 *A modern, responsive web app that hacks the DNA of emails! Transform any .eml file into a digital playground—rewrite history, forge headers, manipulate rich content, and craft deceptions. Email alchemy that breaks all the rules.*  
 
