@@ -2,8 +2,7 @@
 <div align="center">
 
 <!-- Animated Name Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=600&lines=Manish Tripathy" alt="Animated Name" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=802&color=0EDF00&center=true&random=true&width=435&lines=Manish+Tripathy)](https://git.io/typing-svg)
 <!-- Animated Role Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=AI%2FML+Practitioner;Cybersecurity+Researcher;Neural+Network+Developer;Digital+Security+Advocate)](https://git.io/typing-svg)
 
@@ -145,7 +144,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=💻+Let's+connect+and+build+something+amazing;🚀+together!+🌟" alt="Collaboration Message" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&width=435&lines=Let's+Connect+%26+Build+Something+Amazing" alt="Typing SVG" /></a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
