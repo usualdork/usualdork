@@ -1,3 +1,8 @@
+<div align="center">
+
+[![OWASP Contributor](https://img.shields.io/badge/OWASP-Contributor-black?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/OWASP/www-project-top-10-for-maritime-security/graphs/contributors)
+
+</div>
 <!-- Replace {name} with your name and {username} with your GitHub username -->
 <div align="center">
 
