@@ -77,12 +77,11 @@ Contribute to the evaluation of AI/ML research papers for IEEE INDISCON conferen
 <tr>
 <td align="center" width="50%">
 
-### **🎯 Attention-Enhanced MTCNN for Strategic Face Detection**
+### **🔍 An Enhanced Framework for Surveillance: Integrating OSINT, SOCMINT, AI-Driven Analysis & Digital HUMINT Against Terrorism and Exploitation Networks**
 [![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11251813)
 
 **Publisher: IEEE**
-
-This paper presents a hardening of face detection for environments where cooperation, clarity, and control cannot be assumed. Rather than refining MTCNN at the surface level, this work restructures the entire detection cascade to operate under surveillance-grade conditions.
+This paper proposes an advanced surveillance framework combining OSINT, SOCMINT, AI-driven analysis, and digital HUMINT for law enforcement.
 
 </td>
 <td align="center" width="50%">
@@ -137,11 +136,11 @@ Published at ICADS-26 (co-hosted with the Indian Army Air Defence College🎖️
 </td>
 <td align="center" width="50%">
 
-### **🔍 An Enhanced Framework for Surveillance: Integrating OSINT, SOCMINT, AI-Driven Analysis & Digital HUMINT Against Terrorism and Exploitation Networks**
+### **🎯 Attention-Enhanced MTCNN for Strategic Face Detection**
 
 **Publisher: IEEE**
 
-This paper proposes an advanced surveillance framework combining OSINT, SOCMINT, AI-driven analysis, and digital HUMINT for law enforcement.
+This paper presents a hardening of face detection for environments where cooperation, clarity, and control cannot be assumed. Rather than refining MTCNN at the surface level, this work restructures the entire detection cascade to operate under surveillance-grade conditions.
 
 </td>
 </tr>
