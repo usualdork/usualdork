@@ -40,7 +40,7 @@
 <tr>
 <td align="center" width="50%">
 
-### **� OWASP Maritime Security**
+### **🎯 OWASP Maritime Security**
 [![OWASP Badge](https://img.shields.io/badge/Role-Maritime%20Security%20Contributor-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/OWASP/www-project-top-10-for-maritime-security)
 
 **Sep 2025 – Present**
