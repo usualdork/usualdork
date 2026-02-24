@@ -87,7 +87,7 @@ This paper presents a hardening of face detection for environments where coopera
 </td>
 <td align="center" width="50%">
 
-### **� Unified Cyber Attack Vectors: OSINT, Reconnaissance, and Social Engineering**
+### **💣 Unified Cyber Attack Vectors: OSINT, Reconnaissance, and Social Engineering**
 [![Taylor & Francis](https://img.shields.io/badge/Read_Paper-Taylor%26Francis-00AEEF?style=for-the-badge&logo=taylorandfrancis&logoColor=white)](https://www.routledge.com/Computing-Communication-and-Intelligence/Sethi-Sahoo-Tosh-Jayasingh-Bhoi/p/book/9781041292357)
 
 **Publisher: Taylor & Francis**
