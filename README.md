@@ -109,7 +109,7 @@ The paper proposes a Zero-Shot Learning (ZSL) approach for face recognition in c
 <td align="center" width="50%">
 
 ### **🤖 Deep Learning Based Face Recognition with Modified MTCNN and FaceNet**
-[![Taylor & Francis](https://img.shields.io/badge/Read_Paper-Taylor%26Francis-00AEEF?style=for-the-badge&logo=taylorandfrancis&logoColor=white)](https://www.routledge.com/Computing-Communication-and-Intelligence/Sethi-Sahoo-Tosh-Jayasingh-Bhoi/p/book/9781041292357)
+[![Taylor & Francis](https://img.shields.io/badge/Read_Paper-Taylor%26Francis-00AEEF?style=for-the-badge&logo=taylorandfrancis&logoColor=white)](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003768654-16/deep-learning-based-face-recognition-system-modified-mtcnn-facenet-abinash-kumar-pala-sandipan-mallik-manish-tripathy-rashmi-ranjan-sahoo-raghunandan-swain-dinesh-kumar-dash)
 
 **Publisher: Taylor & Francis**
 
@@ -220,7 +220,7 @@ This research integrates AI, OSINT, and cybersecurity analytics to enable secure
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
 
 <!-- Advanced AI Technologies -->
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&format=png" alt="CUDA">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
