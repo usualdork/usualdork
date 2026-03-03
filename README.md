@@ -155,6 +155,21 @@ This research integrates AI, OSINT, and cybersecurity analytics to enable secure
 
 </td>
 </tr>
+<tr>
+<td align="center" width="50%">
+
+### **🛡️ VANGUARD: A Cognitive Purple Agent Framework for Autonomous Adversarial Simulation and Real-Time SIEM Validation**
+[![Zenodo Preprint](https://img.shields.io/badge/Read_Paper-Zenodo-024BAB?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.18846075)
+
+**Publisher: Zenodo**
+
+This paper introduces VANGUARD, a Cognitive Purple Agent fusing an LLM-driven ReAct Red Team engine with real-time Elasticsearch SIEM validation. Demonstrates 0.0% SOC detection rates against autonomously synthesized kill-chains, with immediate autonomous KQL rule deployment to close the gaps.
+
+</td>
+<td align="center" width="50%">
+<!-- Reserved for next publication -->
+</td>
+</tr>
 </table>
 
 </details>
