@@ -167,7 +167,14 @@ This paper introduces VANGUARD, a Cognitive Purple Agent fusing an LLM-driven Re
 
 </td>
 <td align="center" width="50%">
-<!-- Reserved for next publication -->
+
+### **🧬 The Cognitive Fingerprint: LLM-Resistant Cross-Domain Threat Actor Attribution via Temporal-Syntactic Fusion**
+[![TechRxiv Preprint](https://img.shields.io/badge/Read_Paper-TechRxiv-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.36227/techrxiv.177272729.99887126/v1)
+
+**Publisher: TechRxiv (Preprint)**
+
+This paper proposes a novel attribution framework that bypasses the "LLM Wall" — the point where semantic models collapse against adversarially obfuscated text — by replacing Semantic Analysis with Behavioral Signal Processing. Introduces L-TDoA (Logical Time-Difference-of-Arrival) for measuring cross-platform cognitive latency, and SynGNN, a content-blind Graph Neural Network leveraging deep syntactic embeddings. SynGNN recovers 78.6% of identities under full structural stripping where BERT-based models degrade to 12.4%, achieving a simulated composite precision of 91.7% in controlled adversarial settings.
+
 </td>
 </tr>
 </table>
@@ -353,6 +360,16 @@ This paper introduces VANGUARD, a Cognitive Purple Agent fusing an LLM-driven Re
 
 <img width="100%" src="https://img.shields.io/badge/Oracle-Generative_AI_Professional-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black" alt="Oracle">
 
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img width="100%" src="https://img.shields.io/badge/Palantir-Foundry_Aware-1A1A1A?style=for-the-badge&logo=palantir&logoColor=white&labelColor=black" alt="Palantir Foundry Aware">
+
+</td>
+<td align="center" width="50%">
+<!-- Reserved for next certification -->
 </td>
 </tr>
 </table>
