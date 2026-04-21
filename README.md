@@ -559,15 +559,15 @@ This paper proposes a novel attribution framework that bypasses the "LLM Wall" �
 <!-- Wrap everything in a link to Spotify -->
 <a href="https://open.spotify.com/track/1QJFW9TapmQA41A1gp9nNe" target="_blank" style="text-decoration:none;">
 <!-- The statue image, sized for a typical footer row -->
-<img src="https://github.com/user-attachments/assets/5d74bd32-2ba3-42e2-91da-62c604813c9e" alt="Statue Bust" width="120" height="auto" style="border-radius:4px;" />
+<img src="https://github.com/user-attachments/assets/3536eb90-f441-47d2-9ebd-ea3705b7a586" alt="Statue Bust" width="720" height="404" style="border-radius:4px;" />
 </a>
 </div>
 
 <!-- A subtle margin, then an old-school marquee for the song title -->
 <div align="center">
 <a href="https://open.spotify.com/track/1QJFW9TapmQA41A1gp9nNe" target="_blank">
-<code>⋆˚✿˖° L'𝔸𝕞𝕠𝕦𝕣 𝕋𝕠𝕦𝕛𝕠𝕦𝕣𝕤 °˖✿˚⋆</code><br>
-<code>✧ 𝒢𝒾𝑔𝒾 𝒟'𝒜𝑔𝑜𝓈𝓉𝒾𝓃𝑜 ✧</code>
+<code>⋆˚✿˖° 𝓛𝓪𝓼𝓽 𝓕𝓻𝓲𝓭𝓪𝔂 𝓝𝓲𝓰𝓱𝓽 (𝓣.𝓖.𝓘.𝓕.) °˖✿˚⋆</code><br>
+<code>✧ 𝓚𝓪𝓽𝔂 𝓟𝓮𝓻𝓻𝔂 ✧</code>
 </a>
 </div>
 
