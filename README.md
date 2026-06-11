@@ -98,8 +98,8 @@ This paper explores how combining OSINT, reconnaissance, and social engineering 
 <tr>
 <td align="center" width="50%">
 
-### **⚔️ Strategic Information Confrontation Through Persistent Digital Surveillance**
-[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11542496)
+### **⚔️ Strategic Information Confrontation Through Persistent Digital Surveillance: An Integrated Osint & Social Engineering Framework for Long-Term Intelligence Weaponization**
+[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11545461)
 
 **Publisher: IEEE**
 
@@ -108,8 +108,8 @@ Published at ICADS-26 (co-hosted with the Indian Army Air Defence College🎖️
 </td>
 <td align="center" width="50%">
 
-### **🎯 Attention-Enhanced MTCNN for Strategic Face Detection**
-[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11545461)
+### **🎯 Attention-Enhanced MTCNN for Strategic Face Detection in Unconstrained Environments**
+[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11542496)
 
 **Publisher: IEEE**
 
