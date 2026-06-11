@@ -81,6 +81,7 @@ Contribute to the evaluation of AI/ML research papers for IEEE INDISCON conferen
 [![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11251813)
 
 **Publisher: IEEE**
+
 This paper proposes an advanced surveillance framework combining OSINT, SOCMINT, AI-driven analysis, and digital HUMINT for law enforcement.
 
 </td>
@@ -96,10 +97,22 @@ This paper explores how combining OSINT, reconnaissance, and social engineering 
 </td>
 </tr>
 <tr>
+<td align="center" colspan="2">
+
+### **🎭 Deceptive Digital Identities: When Social Media Profiles Are Engineered to Deceive: How Sophisticated Actors Architect Their Online Presence and a Counter-OSINT Framework to Detect Them**
+[![Zenodo](https://img.shields.io/badge/Read_Paper-Zenodo-024BAB?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/records/19604277)
+
+**Publisher: Zenodo**
+
+This paper formalizes Content Asymmetry as a deception signal through the Content Asymmetry Index (CAI), applies graph-theoretic attack surface reduction to social identity, and presents a five-phase Counter-OSINT Reconnaissance framework. Grounded in an eight-year longitudinal study of 100,000+ profiles, it introduces a formal persona engineering taxonomy and a three-tier confidence stratification framework for deception-resistant profiling.
+
+</td>
+</tr>
+<tr>
 <td align="center" width="50%">
 
-### **⚔️ Strategic Information Confrontation Through Persistent Digital Surveillance: An Integrated Osint & Social Engineering Framework for Long-Term Intelligence Weaponization**
-[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11545461)
+### **⚔️ Strategic Information Confrontation Through Persistent Digital Surveillance**
+[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11542496)
 
 **Publisher: IEEE**
 
@@ -108,8 +121,8 @@ Published at ICADS-26 (co-hosted with the Indian Army Air Defence College🎖️
 </td>
 <td align="center" width="50%">
 
-### **🎯 Attention-Enhanced MTCNN for Strategic Face Detection in Unconstrained Environments**
-[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11542496)
+### **🎯 Attention-Enhanced MTCNN for Strategic Face Detection**
+[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11545461)
 
 **Publisher: IEEE**
 
