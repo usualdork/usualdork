@@ -112,7 +112,7 @@ This paper formalizes Content Asymmetry as a deception signal through the Conten
 <td align="center" width="50%">
 
 ### **⚔️ Strategic Information Confrontation Through Persistent Digital Surveillance**
-[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11542496)
+[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11545461)
 
 **Publisher: IEEE**
 
@@ -122,7 +122,7 @@ Published at ICADS-26 (co-hosted with the Indian Army Air Defence College🎖️
 <td align="center" width="50%">
 
 ### **🎯 Attention-Enhanced MTCNN for Strategic Face Detection**
-[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11545461)
+[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11542496)
 
 **Publisher: IEEE**
 
