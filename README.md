@@ -98,6 +98,35 @@ This paper explores how combining OSINT, reconnaissance, and social engineering 
 <tr>
 <td align="center" width="50%">
 
+### **⚔️ Strategic Information Confrontation Through Persistent Digital Surveillance**
+[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11542496)
+
+**Publisher: IEEE**
+
+Published at ICADS-26 (co-hosted with the Indian Army Air Defence College🎖️and IEEE), this paper introduces the Strategic Persistent Intelligence Confrontation (SPIC) framework: a military-grade, intelligence-warfare architecture.
+
+</td>
+<td align="center" width="50%">
+
+### **🎯 Attention-Enhanced MTCNN for Strategic Face Detection**
+[![IEEE Paper](https://img.shields.io/badge/Read_Paper-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11545461)
+
+**Publisher: IEEE**
+
+This paper presents a hardening of face detection for environments where cooperation, clarity, and control cannot be assumed. Rather than refining MTCNN at the surface level, this work restructures the entire detection cascade to operate under surveillance-grade conditions.
+
+</td>
+</tr>
+</table>
+
+<!-- Additional Publications Collapsible Section -->
+<details>
+<summary><strong>📖 Additional Research & Technical Contributions</strong></summary>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 ### **🧠 Zero-Shot Learning for Face Recognition in Cyber Security**
 [![Springer](https://img.shields.io/badge/Read_Paper-Springer-4CC417?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-032-05117-2_5)
 
@@ -114,33 +143,6 @@ The paper proposes a Zero-Shot Learning (ZSL) approach for face recognition in c
 **Publisher: Taylor & Francis**
 
 The paper proposes an advanced face recognition system combining Modified MTCNN and FaceNet. Tested on three benchmark datasets: LFW, Political Faces, and Celebrity Faces, achieving 94.4% accuracy on the LFW dataset.
-
-</td>
-</tr>
-</table>
-
-<!-- Additional Publications Collapsible Section -->
-<details>
-<summary><strong>📖 Additional Research & Technical Contributions</strong></summary>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### **⚔️ Strategic Information Confrontation Through Persistent Digital Surveillance**
-
-**Publisher: IEEE**
-
-Published at ICADS-26 (co-hosted with the Indian Army Air Defence College🎖️and IEEE), this paper introduces the Strategic Persistent Intelligence Confrontation (SPIC) framework: a military-grade, intelligence-warfare architecture.
-
-</td>
-<td align="center" width="50%">
-
-### **🎯 Attention-Enhanced MTCNN for Strategic Face Detection**
-
-**Publisher: IEEE**
-
-This paper presents a hardening of face detection for environments where cooperation, clarity, and control cannot be assumed. Rather than refining MTCNN at the surface level, this work restructures the entire detection cascade to operate under surveillance-grade conditions.
 
 </td>
 </tr>
