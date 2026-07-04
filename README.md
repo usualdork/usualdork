@@ -589,8 +589,8 @@ This paper proposes a novel attribution framework that bypasses the "LLM Wall" â
 <br>
 
 <div align="center">
-  <h3><em>"Code is like humor. When you have to explain it, it's bad."</em></h3>
-  <p>- Cory House</p>
+  <h3><em>"Stay Hungry, Stay Foolish"</em></h3>
+  <p>- Steve Jobs</p>
 </div>
 
 </div>
