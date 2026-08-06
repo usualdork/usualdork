@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Enhanced OWASP Contributor Badge with animation -->
-[![OWASP Leadership](https://img.shields.io/badge/OWASP-Open%20Source%20Intelligence%20Project%20Leader%20%7C%20Maritime%20Security%20Contributor-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/OWASP/OWASP-Open-Source-Intelligence-Standard)
+[![OWASP Leadership](https://img.shields.io/badge/OWASP-OSINT%20Standard%20(Project%20Leader)%20%7C%20Maritime%20Security%20(Contributor)-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/OWASP/OWASP-Open-Source-Intelligence-Standard)
 
 <!-- Dynamic 2025 Badges with unique styling -->
 [![GitHub Stars](https://img.shields.io/github/stars/usualdork?style=for-the-badge&logo=github&logoColor=white&color=FF6B35)](https://github.com/usualdork)
