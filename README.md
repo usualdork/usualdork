@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Enhanced OWASP Contributor Badge with animation -->
-[![OWASP Contributor](https://img.shields.io/badge/OWASP-Maritime%20Security%20Contributor-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/OWASP/www-project-top-10-for-maritime-security)
+[![OWASP Leadership](https://img.shields.io/badge/OWASP-Open%20Source%20Intelligence%20Project%20Leader%20%7C%20Maritime%20Security%20Contributor-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/OWASP/OWASP-Open-Source-Intelligence-Standard)
 
 <!-- Dynamic 2025 Badges with unique styling -->
 [![GitHub Stars](https://img.shields.io/github/stars/usualdork?style=for-the-badge&logo=github&logoColor=white&color=FF6B35)](https://github.com/usualdork)
@@ -35,31 +35,42 @@
 
 ## 🛡️ **Professional Contributions**
 
-<!-- OWASP Maritime Security Role -->
 <table align="center">
 <tr>
-<td align="center" width="50%">
 
-### **🎯 OWASP Maritime Security**
-[![OWASP Badge](https://img.shields.io/badge/Role-Maritime%20Security%20Contributor-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/OWASP/www-project-top-10-for-maritime-security)
+<td align="center" width="33%">
+
+### 🎯 OWASP Open Source Intelligence Standard
+[![OWASP Badge](https://img.shields.io/badge/Role-Project%20Leader-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/OWASP/OWASP-Open-Source-Intelligence-Standard)
+
+**Aug 2026 – Present**
+
+Leading the **OWASP Open Source Intelligence Standard (OSINT Standard)** project, driving the vision, roadmap, and community collaboration. Developing an open standard for OSINT methodologies and best practices for the global cybersecurity community.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎯 OWASP Maritime Security
+[![OWASP Badge](https://img.shields.io/badge/Role-Contributor-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/OWASP/www-project-top-10-for-maritime-security)
 
 **Sep 2025 – Present**
 
-Contributing to OWASP Foundation's maritime cybersecurity initiatives. Developed comprehensive vulnerability analysis framework, risk scoring tools, and threat intelligence databases for OWASP Maritime Security Top 10. Supporting global security standards through open-source collaboration.
+Contributing to the **OWASP Maritime Security Top 10** project by developing vulnerability analysis frameworks, risk scoring methodologies, and threat intelligence resources to strengthen maritime cybersecurity guidance and support global security standards through open-source collaboration.
 
 </td>
-<td align="center" width="50%">
 
-### **🔍 IEEE Reviewer**
+<td align="center" width="33%">
+
+### 🔍 IEEE Conference Reviewer
 [![IEEE Badge](https://img.shields.io/badge/Role-Conference%20Reviewer-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee.org)
 
-**Apr 2025 - Present**
+**Apr 2025 – Present**
 
-Science and Technology
-
-Contribute to the evaluation of AI/ML research papers for IEEE INDISCON conference.
+Reviewing research papers in Artificial Intelligence and Machine Learning for the **IEEE INDISCON** conference, contributing to the peer-review process and helping maintain the quality and integrity of published research.
 
 </td>
+
 </tr>
 </table>
 
