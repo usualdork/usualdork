@@ -99,7 +99,7 @@ This paper proposes an advanced surveillance framework combining OSINT, SOCMINT,
 <td align="center" width="50%">
 
 ### **💣 Unified Cyber Attack Vectors: OSINT, Reconnaissance, and Social Engineering**
-[![Taylor & Francis](https://img.shields.io/badge/Read_Paper-Taylor%26Francis-00AEEF?style=for-the-badge&logo=taylorandfrancis&logoColor=white)](https://www.routledge.com/Computing-Communication-and-Intelligence/Sethi-Sahoo-Tosh-Jayasingh-Bhoi/p/book/9781041292357)
+[![Taylor & Francis](https://img.shields.io/badge/Read_Paper-Taylor%26Francis-00AEEF?style=for-the-badge&logo=taylorandfrancis&logoColor=white)](https://doi.org/10.1201/9781003768654-16)
 
 **Publisher: Taylor & Francis**
 
